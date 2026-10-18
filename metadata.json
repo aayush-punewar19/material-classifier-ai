@@ -1,0 +1,6 @@
+{
+  "name": "MaterialClassifier",
+  "description": "AI-based classification of engineering materials into Metals, Polymers, Ceramics, and Composites using browser-side KNN and Decision Tree machine learning models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
